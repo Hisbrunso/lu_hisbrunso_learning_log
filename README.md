@@ -1,4 +1,4 @@
-# Lu Tianyou's Learning Log | 罗天佑的系统性转码记录
+# Luo Tianyou's Learning Log | 罗天佑的系统性转码记录
 
 **Current Status** | **当前状态**: Architecture student transitioning to AI Infrastructure Engineer  
 **Timeline** | **时间跨度**: 2026.01 - 2028.12 (35 months)  
