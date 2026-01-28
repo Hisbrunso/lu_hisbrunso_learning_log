@@ -21,3 +21,4 @@
 
 ## 给未来面试官（月之暗面HR/导师）的话
 这个仓库的每一个commit都是时间戳。我没有985的本科背景，但我有**持续35个月的公开学习记录**。
+docs: move manifesto to docs folder
