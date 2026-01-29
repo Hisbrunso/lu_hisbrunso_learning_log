@@ -20,4 +20,4 @@ try:
 except ValueError:
     print("\n❌ 输入错误：请输入纯数字")
 
-print("\n程序非正常结束，请重新输入")
+print("\n程序非正常结束，重新输入")
