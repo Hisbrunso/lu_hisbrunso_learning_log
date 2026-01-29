@@ -1,20 +1,20 @@
 # 建筑面积快速计算器
-# 作者：罗天佑
+# 作者：Hisbrunso
 # 日期：2026-01-29
 
-print("=== 建筑师的Python工具 ===")
+print("=== 建筑面积快速计算器 ===")
 
-# 1. 输入数据（使用input函数）
+# 1. 输入数据
 length = input("请输入建筑长度（米）：")
 width = input("请输入建筑宽度（米）：")
 height = input("请输入层高（米）：")
 
-# 2. 数据转换（input得到的是文字，要变成数字）
+# 2. 数据转换
 length = float(length)
 width = float(width)
 height = float(height)
 
-# 3. 计算（你的建筑学公式）
+# 3. 计算
 area = length * width
 volume = area * height
 
@@ -22,7 +22,7 @@ volume = area * height
 print(f"占地面积：{area} 平方米")
 print(f"建筑体积：{volume} 立方米")
 
-# 5. 检查规范（简单的条件判断，为明天预热）
+# 5. 检查规范
 if area > 1000:
     print("⚠️ 注意：超过1000㎡，需要设置两个安全出口")
 else:
