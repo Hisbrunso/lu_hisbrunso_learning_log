@@ -4,9 +4,10 @@
 print("=== 建筑面积计算器 v2.0 ===")
 print("（请勿输入无效数据）\n")
 
-try:
-    length = float(input("请输入建筑长度（米）："))
-    width = float(input("请输入建筑宽度（米）："))
+while True:
+    try:
+        length = float(input("请输入建筑长度（米）/ Enter length (m): "))
+    width = float(input("请输入建筑宽度（米）/ Enter width (m)："))
     
     area = length * width
     
